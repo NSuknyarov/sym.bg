@@ -7,6 +7,7 @@
 	<meta name="description" content="Скутери, мотори и АТВ на марката SYM. Велона официален представител за България - продажба, цени, части">
 	<meta name="HandheldFriendly" content="true" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name="theme-color" content="#004583">
 	<link href="resources/css/bootstrap.min.css" rel="stylesheet">
 	<link href="resources/css/bootstrap-responsive.css" rel="stylesheet">
 	<link href="resources/css/custom.css" rel="stylesheet">

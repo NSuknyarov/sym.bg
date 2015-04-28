@@ -2,7 +2,7 @@
 
 <hr class="fancy-line"></hr>
 <span class="text-blue pagination-centered">
-	<h4>Фирма ВЕЛОНА официален вносител на скутери, мотори и АТВ на марката SYM за България</h4>
+	<h4>Фирма ВЕЛОНА официален вносител на скутери, мотори и АТВ на марката SYM за България.</h4>
 </span>
 <br></br>
 <div class="pagination-centered">
