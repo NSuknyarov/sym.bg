@@ -23,25 +23,16 @@
 			<h3 class="title"></h3>
 			<a class="prev">‹</a>
 			<a class="next">›</a>
-			<a class="close">×</a>
+			<a class="close">×</a>s
 			<a class="play-pause"></a>
 			<ol class="indicator"></ol>
 		</div>
-		<div id="fb-root"></div>
-		<script>(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/bg_BG/all.js#xfbml=1";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));</script>
 	<div class="container">
 		<div class="row-fluid">
 			<div class="logo">
 				<a href="index.php"><img src="resources/images/sym-logo.jpg" alt="SYM logo"/></a>
 			</div>
 		</div>
-			<!-- <h4>Фирма ВЕЛОНА официален вносител на скутери, мотори и АТВ на марката SYM за България</h4> -->
 		<div class="navbar">
 		<div class="navbar-inner">
 		<a class="btn btn-navbar btn-navbar-custom span12" data-toggle="collapse" data-target=".nav-collapse">
@@ -57,34 +48,40 @@
 				<li class="pagination-centered"><a href="scooters.php">Всички модели</a></li>
 				<li class="divider"></li>
 				<li>
-                <div class="row-fluid" style="width: 700px;">
-                    <ul class="dropdown-column unstyled span4">
-                        <li><a href="skuter-maxsym-400i.php">Maxsym 400i ABS</a></li>
-                        <li><a href="skuter-gts-300i.php">GTS 300i F4 ABS</a></li>
-                        <li><a href="skuter-gts-250i.php">GTS 250i F4</a></li>
-						<li><a href="skuter-citycom-300i.php">Citycom 300i CBC</a></li>
-						<li><a href="skuter-gts-250i-evo.php">GTS 250i EVO</a></li>
-						<li><a href="skuter-joyride-200i.php">Joyride 200i EVO</a></li>
-						<li><a href="skuter-joyride-125.php">Joyride 125 EVO</a></li>
-                    </ul>
-                    <ul class="dropdown-column unstyled span4">
-                        <li><a href="skuter-hd2-200i.php">HD2 200i</a></li>
-                        <li><a href="skuter-hd2-125.php">HD2 125</a></li>
-                        <li><a href="skuter-hd-classic.php">HD 200i EVO Classic</a></li>
-						<li><a href="skuter-symphony-sr.php">Symphony SR 50/125/150</a></li>
-						<li><a href="skuter-symphony-s.php">Symphony S 50/125</a></li>
-						<li><a href="skuter-vs.php">VS 125/150</a></li>
-						<li><a href="skuter-fiddle-2.php">Fiddle II 50/125/150</a></li>
-                    </ul>
-                    <ul class="dropdown-column unstyled span4">
-						<li><a href="skuter-combiz-125.php">ComBiz 125</a></li>
-						<li><a href="skuter-xpro.php">X-pro 50/125</a></li>
-						<li><a href="skuter-mio.php">Mio 50/100</a></li>
-						<li><a href="skuter-jet4.php">Jet 4 50/125</a></li>
-						<li><a href="skuter-orbit-2.php">Orbit II 50</a></li>
-						<li><a href="skuter-jet4r.php">Jet4R 50</a></li>
-                    </ul>
-                </div>
+          <div class="row-fluid" style="width: 700px;">
+              <ul class="dropdown-column unstyled span4">
+                <!--new model--><li><a href="skuter-maxsym-600i.php">Maxsym 600i ABS</a></li>
+                <li><a href="skuter-maxsym-400i.php">Maxsym 400i ABS/CBS</a></li>
+                <li><a href="skuter-gts-300i.php">GTS 300i F4 ABS</a></li>
+                <li><a href="skuter-gts-250i.php">GTS 250i F4</a></li>
+                <!--new model--><li><a href="skuter-citycom-s-300i.php">Citycom S 300i CBS</a></li>
+    						<li><a href="skuter-citycom-300i.php">Citycom 300i CBC</a></li>
+    						<li><a href="skuter-gts-250i-evo.php">GTS 250i EVO</a></li>
+    						<!--new model--><li><a href="skuter-bellavita-300i.php">Bellavita 300i CBS</a></li>
+    						<li><a href="skuter-joyride-200i.php">Joyride 200i EVO</a></li>
+    						<li><a href="skuter-joyride-125.php">Joyride 125 EVO</a></li>
+              </ul>
+              <ul class="dropdown-column unstyled span4">
+                <li><a href="skuter-hd2-200i.php">HD2 200i</a></li>
+                <li><a href="skuter-hd2-125.php">HD2 125</a></li>
+                <!--new model--><li><a href="skuter-symphony-st-200i.php">Symphony ST 200i CBS</a></li>
+                <!--new model--><li><a href="skuter-symphony-sr-150-new.php">Symphony SR 150 new</a></li>
+    						<li><a href="skuter-symphony-sr.php">Symphony SR 50/125/150</a></li>
+    						<li><a href="skuter-symphony-s.php">Symphony S 50/125</a></li>
+    						<li><a href="skuter-vs.php">VS 125/150</a></li>
+    						<!--new model--><li><a href="skuter-fiddle-iii-50-125.php">Fiddle III 50/125</a></li>
+    						<!--new model--><li><a href="skuter-fiddle-iii-200i.php">Fiddle III 200i CBS</a></li>
+    						<li><a href="skuter-combiz-125.php">ComBiz 125</a></li>
+              </ul>
+              <ul class="dropdown-column unstyled span4">
+                <!--new model--><li><a href="skuter-crox-50-125.php">Crox 50/125</a></li>
+    						<li><a href="skuter-xpro.php">X-pro 50/125</a></li>
+    						<li><a href="skuter-mio.php">Mio 50/100</a></li>
+    						<li><a href="skuter-jet4.php">Jet 4 50/125</a></li>
+    						<li><a href="skuter-orbit-2.php">Orbit II 50</a></li>
+    						<li><a href="skuter-jet4r.php">Jet4R 50</a></li>
+              </ul>
+          </div>
 				</li>
 				</ul>
 				</li>
