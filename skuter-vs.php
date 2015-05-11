@@ -12,7 +12,7 @@
 				осветяват през ноща така, че да забележите всичко пред вас. Отличния багажник предлага толкова много място, че в него могат да се поберат и дори 2 цели
 				каски.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 3900лв. (125) / 4490лв. (150)</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 4190лв. (125) / 4790лв. (150)</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-vs.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-vs.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

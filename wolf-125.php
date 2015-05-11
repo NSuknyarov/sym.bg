@@ -13,7 +13,7 @@
 				Мускулестият резервоар за гориво се набива на очи, щом попадне в полезрението на хората. При маневриране на машината, водачите незабавно ще
 				открият радостта от карането - лесно заобикаляйки трафика и движейки се из улиците на града.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 4300лв.</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 4590лв.</p>
 			<div class="fb-like" data-href="http://www.sym.bg/wolf-125.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/wolf-125.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

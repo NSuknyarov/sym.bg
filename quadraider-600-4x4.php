@@ -13,7 +13,7 @@
 				е идеална за ловуване, земеделски задачи или просто моменти на разпускане. QuadRaider е проектиран не само за един човек, но също и за удобно предвижване
 				с двама души.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 13700лв.</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 14190лв.</p>
 			<div class="fb-like" data-href="http://www.sym.bg/quadraider-600-4x4.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/quadraider-600-4x4.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

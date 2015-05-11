@@ -12,7 +12,7 @@
 				и истинска наслада. Продължителните пътувания също не са проблем, защото Joyride е оборудван с широка и удобна седалка, много място за краката, а предната
 				и задна дискова спирачка осигуряват необходимата безопасност.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 5280лв.</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 5590лв.</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-joyride-125.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-joyride-125.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

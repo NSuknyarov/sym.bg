@@ -13,7 +13,7 @@
 				добавящи уникалност към предния дизайн. Също така са направени подобрения за удобството на водача, като занижената височина на седалката на 790мм и ключ
 				за изключване на двигателя. С други думи, тази еволюция Ви дава повече удобство и комфорт, мощност и производителност.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 4690лв.</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 4790лв.</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-hd2-125.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-hd2-125.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

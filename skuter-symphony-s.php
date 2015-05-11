@@ -12,7 +12,7 @@
 				и извън него. SYM с гордост представя този отличителен и стилен модел, който възбужда сетивата. Елегантните линии и извивки комбинирани със
 				забележителна спирачна система предоставят максимална сигурност и върхов стил.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 3120лв. (50) / 3450лв. (125)</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 3550лв. (50) / 3790лв. (125)</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-symphony-s.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-symphony-s.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

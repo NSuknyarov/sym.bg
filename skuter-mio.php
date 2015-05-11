@@ -11,7 +11,7 @@
 				Mio е малък, компактен и лесен за каране. Идеалния избор за хората търсещи свеж дизайн в сивия град. Моделът се предлага в богата гама от цветове, които
 				да отразят твоята персоналност.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 3120лв. (50) / 3710лв. (100)</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 3690лв. (50) / 4090лв. (100)</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-mio.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-mio.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

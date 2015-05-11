@@ -11,9 +11,9 @@
 				Двигател с голям работен обем и луксозно оборудване това е Wolf 250i. Той притежава 250cc 4V двигател с водно охлаждане и максималната мощност от 18.4 kW.
 				Дигиталният километраж осветен в синьо е допълнен и с дисплей за избраната предавка, предоставящ приятно изживяване за водачи с всякакъв опит.
 				Дизайнът на предната и задната дискова спирачка (4 бутален радиален супорт, с диаметър на диска от 288мм отпред и 222мм отзад) предоставят
-				невероятна спирачна сила. Ръчките за спирачки с регулиране в 4 точки задоволяват изискванията на всеки водач. 
+				невероятна спирачна сила. Ръчките за спирачки с регулиране в 4 точки задоволяват изискванията на всеки водач.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 7630лв.</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 8190лв.</p>
 			<div class="fb-like" data-href="http://www.sym.bg/wolf-250.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/wolf-250.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

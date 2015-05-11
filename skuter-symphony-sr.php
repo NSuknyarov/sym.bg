@@ -12,7 +12,7 @@
 				от Jet 4. Комбинацията на едно от най-късото междуосие за класа с големите 16" колелета спомагат за постигането на надеждно и стабилно управление, така
 				че Вие да се насладите на карането с Symphony SR.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 3250лв. (50) / 3450лв. (125) / 3800лв. (150)</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 3590лв. (50) / 3790лв. (125) / 3790лв. (150)</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-symphony-sr.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-symphony-sr.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

@@ -12,7 +12,7 @@
 				със спортен дух. Оригиналният дизайн на предните светлини е широко познаваем и обожаван. Моделът притежава 13" предно колело, ефективно увеличава
 				спортния стил и стабилността при каране. Голямата предна дискова спирачка показва, че е обърнато голямо внимание и на безопасността.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 2840лв. (50) / 3020лв. (125)</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 2990лв. (50) / 3490лв. (125)</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-jet4.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-jet4.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>

@@ -12,7 +12,7 @@
 				изчистен и привлекателен дизайн, който е украсен със стилни графики и цветове. Orbit II удобно се въплащава в образа на младостта и жизнеността. Скутерът
 				Orbit II следва една чисто нова орбита във вселената.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 2530лв.</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 2990лв.</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-orbit-2.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-orbit-2.php"></div>
 		<!-- <a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>
