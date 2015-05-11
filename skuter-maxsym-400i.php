@@ -1,5 +1,5 @@
 <?php include 'templates/header.php'; ?>
-<h2>MAXSYM 400i ABS</h2>
+<h2>MAXSYM 400i ABS/CBS</h2>
 <div class="container">
 <div class="row-fluid">
 	<div class="span5 pagination-centered">
@@ -8,16 +8,34 @@
 	<div class="span7">
 		<h4 class="text-blue">Скутер на MAX</h4>
 			<p>
-				MAXSYM 400i ABS е комбинация от забележителна мощност и артистичен цялостен дизайн. Моделът използва върховите технологии разработени от SYM.
+				MAXSYM 400i е комбинация от забележителна мощност и артистичен цялостен дизайн. Моделът използва върховите технологии разработени от SYM.
 				Острите двойни фарове отпред са отличителна агресивна черта за модела и предоставят пълна видимост. Отличните ергономични параметри на скутера
 				предлагат забележителен комфорт при каране на дълги разстояния. SYM се гордее да представи този шедьовър, който предлага динамика, безопасност и
 				комфорт на каране, както извън града, така и в него.
 			</p>
+			<p>Отличителни черти:</p>
+			<ul>
+			  <li>Регулируемо ветрово стъкло в две позиции.</li>
+			  <li>Регулируема облигалка за водача.</li>
+			  <li>Автоматизирано хидравлично повдигане на седалката.</li>
+			  <li>Удобно място за втори пътник.</li>
+			  <li>Въздуховод, за отопление на краката на водача.</li>
+			  <li>Двойни предни светлини.</li>
+			  <li>LED предни и задни мигачи.</li>
+			  <li>Вградена аларма.</li>
+			  <li>Тахометър.</li>
+			  <li>Магнитна ключалка.</li>
+			  <li>Предпазен ключ против кражби под седалката.</li>
+			  <li>Огромно багажно отделение за две каски.</li>
+			  <li>Осветление на багажното отделение.</li>
+			  <li>Вграден 12V контакт и USB порт за зареждане на устройства.</li>
+			  <li>Резервоар за гориво с вместимост 14.2 литра.</li>
+			  <li>Централна/странична степенка задействащи се от ключ.</li>
+			  <li>Ръчна спирачка.</li>
+			  <li>Голямо двойно табло, с дигитален дисплей.</li>
+			</ul>
+			&nbsp;
 			<p class="text-blue" style="font-size:x-large;"> Цена: 10990лв. (ABS)/ 9790лв. (CBS)</p>
-			<div class="fb-like" data-href="http://www.sym.bg/skuter-maxsym-400i.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
-			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-maxsym-400i.php"></div>
-		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>
-		-->
 		</div>
 	</div>
 	<div class="row-fluid">
@@ -98,11 +116,11 @@
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ПРЕДНА СПИРАЧКА</td>
-						<td width="70%" valign="top" class="text">Дискова &oslash;275 mm + ABS</td>
+						<td width="70%" valign="top" class="text">Дискова &oslash;275 mm + ABS или CBS</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ЗАДНА СПИРАЧКА</td>
-						<td width="70%" valign="top" class="text">Дискова &oslash;275 mm + ABS</td>
+						<td width="70%" valign="top" class="text">Дискова &oslash;275 mm + ABS или CBS</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ПРЕДНА ГУМА</td>
