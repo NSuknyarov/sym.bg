@@ -45,7 +45,7 @@
 				Скутери<b class="caret"></b>
 				</a>
 				<ul class="dropdown-menu">
-				<li class="pagination-centered"><a href="scooters.php">Всички модели</a></li>
+				<li class="pagination-centered"><a href="scooters-catalog.php">Всички модели</a></li>
 				<li class="divider"></li>
 				<li>
           <div class="row-fluid" style="width: 700px;">

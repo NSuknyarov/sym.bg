@@ -3,7 +3,7 @@
 <div class="container">
 <div class="row-fluid">
 	<div class="span5 pagination-centered">
-	<img class="img-polaroid" src="resources/images/symphony-sr-new-new/sym-symphony-sr-new-new-cover.jpg" alt="скутер SYM Symphony SR"/>
+	<img class="img-polaroid" src="resources/images/symphony-sr-new/sym-symphony-sr-new-1.jpg" alt="скутер SYM Symphony SR"/>
 	</div>
 	<div class="span7">
 		<h4 class="text-blue">Новият господар на града</h4>
@@ -31,16 +31,16 @@
 		<div id="links">
 		<ul class="thumbnails pagination-centered">
 			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-1.jpg" title="SYM Symphony SR New">
-			<img src="resources/imagesSYM Symphony SR New Engine-new/sym-symphony-sr-new-1.jpg" class="img-polaroid" alt="SYM Symphony SR New image1" style="width: 100px; height: 100px;">
+			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-1.jpg" class="img-polaroid" alt="SYM Symphony SR New image1" style="width: 100px; height: 100px;">
 			</a>
 			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-2.jpg" title="SYM Symphony SR New">
 			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-2.jpg" class="img-polaroid" alt="SYM Symphony SR New image2" style="width: 100px; height: 100px;">
 			</a>
 			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-3.jpg" title="SYM Symphony SR New">
-			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-new-3.jpg" class="img-polaroid" alt="SYM Symphony SR New image3" style="width: 100px; height: 100px;">
+			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-3.jpg" class="img-polaroid" alt="SYM Symphony SR New image3" style="width: 100px; height: 100px;">
 			</a>
-			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-new-4.jpg" title="SYM Symphony SR New">
-			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-new-4.jpg" class="img-polaroid" alt="SYM Symphony SR New image4" style="width: 120px; height: 100px;">
+			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-4.jpg" title="SYM Symphony SR New">
+			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-4.jpg" class="img-polaroid" alt="SYM Symphony SR New image4" style="width: 120px; height: 100px;">
 			</a>
 		</ul>
 		</div>
