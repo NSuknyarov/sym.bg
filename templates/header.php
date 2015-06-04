@@ -114,14 +114,6 @@
 				<li><a href="network.php">Дилъри</a></li>
 				<li><a href="contacts.php">За контакти</a></li>
 			</ul>
-			
-			
-				<div class="pull-right">
-				<ul class="nav">
-					<li><a href="index.php"><img src="resources/images/icon_bg.png" alt="Български език"/></a></li>
-					<li><a href="en/index.php"><img src="resources/images/icon_eng.png" alt="English language"/></a></li>
-				</ul>
-				</div>
 			</div>
 		</div>
 		</div>
