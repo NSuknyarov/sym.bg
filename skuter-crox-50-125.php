@@ -20,25 +20,25 @@
 		<div id="links">
 		<ul class="thumbnails pagination-centered">
 			<a href="resources/images/crox-50-125/sym-crox-1.jpg" title="SYM CROX">
-			<img src="resources/images/crox-50-125/sym-crox-1.jpg" class="img-polaroid" alt="SYM CROX image1" style="width: 100px; height: 140px;">
+			<img src="resources/images/crox-50-125/sym-crox-1.jpg" class="img-polaroid" alt="SYM CROX image1" style="width: 120px; height: 120px;">
 			</a>
 			<a href="resources/images/crox-50-125/sym-crox-2.jpg" title="SYM CROX">
-			<img src="resources/images/crox-50-125/sym-crox-2.jpg" class="img-polaroid" alt="SYM CROX image2" style="width: 100px; height: 100px;">
+			<img src="resources/images/crox-50-125/sym-crox-2.jpg" class="img-polaroid" alt="SYM CROX image2" style="width: 120px; height: 120px;">
 			</a>
 			<a href="resources/images/crox-50-125/sym-crox-3.jpg" title="SYM CROX">
-			<img src="resources/images/crox-50-125/sym-crox-3.jpg" class="img-polaroid" alt="SYM CROX image3" style="width: 100px; height: 120px;">
+			<img src="resources/images/crox-50-125/sym-crox-3.jpg" class="img-polaroid" alt="SYM CROX image3" style="width: 100px; height: 140px;">
 			</a>
 			<a href="resources/images/crox-50-125/sym-crox-4.jpg" title="SYM CROX">
-			<img src="resources/images/crox-50-125/sym-crox-4.jpg" class="img-polaroid" alt="SYM CROX image4" style="width: 140px; height: 100px;">
+			<img src="resources/images/crox-50-125/sym-crox-4.jpg" class="img-polaroid" alt="SYM CROX image4" style="width: 100px; height: 140px;">
 			</a>
 			<a href="resources/images/crox-50-125/sym-crox-5.jpg" title="SYM CROX">
-			<img src="resources/images/crox-50-125/sym-crox-5.jpg" class="img-polaroid" alt="SYM CROX image5" style="width: 100px; height: 100px;">
+			<img src="resources/images/crox-50-125/sym-crox-5.jpg" class="img-polaroid" alt="SYM CROX image5" style="width: 140px; height: 100px;">
 			</a>
 			<a href="resources/images/crox-50-125/sym-crox-6.jpg" title="SYM CROX">
-			<img src="resources/images/crox-50-125/sym-crox-6.jpg" class="img-polaroid" alt="SYM CROX image6" style="width: 140px; height: 140px;">
+			<img src="resources/images/crox-50-125/sym-crox-6.jpg" class="img-polaroid" alt="SYM CROX image6" style="width: 140px; height: 120px;">
 			</a>
 			<a href="resources/images/crox-50-125/sym-crox-7.jpg" title="SYM CROX">
-			<img src="resources/images/crox-50-125/sym-crox-7.jpg" class="img-polaroid" alt="SYM CROX image7" style="width: 100px; height: 140px;">
+			<img src="resources/images/crox-50-125/sym-crox-7.jpg" class="img-polaroid" alt="SYM CROX image7" style="width: 120px; height: 120px;">
 			</a>
 			<a href="resources/images/crox-50-125/sym-crox-8.jpg" title="SYM CROX">
 			<img src="resources/images/crox-50-125/sym-crox-8.jpg" class="img-polaroid" alt="SYM CROX image8" style="width: 100px; height: 140px;">
@@ -47,7 +47,7 @@
 			<img src="resources/images/crox-50-125/sym-crox-9.jpg" class="img-polaroid" alt="SYM CROX image9" style="width: 100px; height: 140px;">
 			</a>
 			<a href="resources/images/crox-50-125/sym-crox-10.jpg" title="SYM CROX">
-			<img src="resources/images/crox-50-125/sym-crox-10.jpg" class="img-polaroid" alt="SYM CROX image10" style="width: 100px; height: 140px;">
+			<img src="resources/images/crox-50-125/sym-crox-10.jpg" class="img-polaroid" alt="SYM CROX image10" style="width: 140px; height: 100px;">
 			</a>
 		</ul>
 		</div>

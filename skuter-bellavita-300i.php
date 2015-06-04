@@ -3,7 +3,7 @@
 <div class="container">
 <div class="row-fluid">
 	<div class="span5 pagination-centered">
-	<img class="img-polaroid" src="resources/images/bellavita-300i/sym-bellavita-300i-cover.jpg" alt="скутер SYM Bellavita 300i CBS"/>
+	<img class="img-polaroid" src="resources/images/bellavita-300i/sym-bellavita-300i-1.jpg" alt="скутер SYM Bellavita 300i CBS"/>
 	</div>
 	<div class="span7">
 			<h4>Романтика и динамика в едно</h4>
@@ -48,19 +48,19 @@
 			<img src="resources/images/bellavita-300i/sym-bellavita-300i-2.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image2" style="width: 110px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-3.jpg" title="SYM Bellavita 300i CBS">
-			<img src="resources/images/bellavita-300i/sym-bellavita-300i-3.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image3" style="width: 110px; height: 100px;">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-3.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image3" style="width: 120px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-4.jpg" title="SYM Bellavita 300i CBS">
-			<img src="resources/images/bellavita-300i/sym-bellavita-300i-4.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image4" style="width: 110px; height: 100px;">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-4.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image4" style="width: 120px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-5.jpg" title="SYM Bellavita 300i CBS">
-			<img src="resources/images/bellavita-300i/sym-bellavita-300i-5.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image5" style="width: 110px; height: 100px;">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-5.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image5" style="width: 120px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-6.jpg" title="SYM Bellavita 300i CBS">
-			<img src="resources/images/bellavita-300i/sym-bellavita-300i-6.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image6" style="width: 70px; height: 100px;">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-6.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image6" style="width: 120px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-7.jpg" title="SYM Bellavita 300i CBS">
-			<img src="resources/images/bellavita-300i/sym-bellavita-300i-7.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image7" style="width: 70px; height: 100px;">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-7.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image7" style="width: 120px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-8.jpg" title="SYM Bellavita 300i CBS">
 			<img src="resources/images/bellavita-300i/sym-bellavita-300i-8.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image8" style="width: 110px; height: 100px;">
@@ -69,13 +69,19 @@
 			<img src="resources/images/bellavita-300i/sym-bellavita-300i-9.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image9" style="width: 110px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-10.jpg" title="SYM Bellavita 300i CBS">
-			<img src="resources/images/bellavita-300i/sym-bellavita-300i-10.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image10" style="width: 110px; height: 100px;">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-10.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image10" style="width: 120px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-11.jpg" title="SYM Bellavita 300i CBS">
 			<img src="resources/images/bellavita-300i/sym-bellavita-300i-11.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image11" style="width: 110px; height: 100px;">
 			</a>
 			<a href="resources/images/bellavita-300i/sym-bellavita-300i-12.jpg" title="SYM Bellavita 300i CBS">
-			<img src="resources/images/bellavita-300i/sym-bellavita-300i-12.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image12" style="width: 110px; height: 100px;">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-12.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image12" style="width: 120px; height: 100px;">
+			</a>
+			<a href="resources/images/bellavita-300i/sym-bellavita-300i-13.jpg" title="SYM Bellavita 300i CBS">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-13.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image13" style="width: 150px; height: 100px;">
+			</a>
+			<a href="resources/images/bellavita-300i/sym-bellavita-300i-14.jpg" title="SYM Bellavita 300i CBS">
+			<img src="resources/images/bellavita-300i/sym-bellavita-300i-14.jpg" class="img-polaroid" alt="SYM Bellavita 300i CBS image14" style="width: 150px; height: 100px;">
 			</a>
 		</ul>
 		</div>

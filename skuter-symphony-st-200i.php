@@ -34,10 +34,10 @@
 		<div id="links">
 		<ul class="thumbnails pagination-centered">
 			<a href="resources/images/symphony-st/sym-symphony-st-1.jpg" title="Symphony ST 200i">
-			<img src="resources/images/symphony-st/sym-symphony-st-1.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image1" style="width: 140px; height: 100px;">
+			<img src="resources/images/symphony-st/sym-symphony-st-1.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image1" style="width: 100px; height: 130px;">
 			</a>
 			<a href="resources/images/symphony-st/sym-symphony-st-2.jpg" title="SYM Symphony ST 200i">
-			<img src="resources/images/symphony-st/sym-symphony-st-2.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image2" style="width: 140px; height: 100px;">
+			<img src="resources/images/symphony-st/sym-symphony-st-2.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image2" style="width: 100px; height: 130px;">
 			</a>
 			<a href="resources/images/symphony-st/sym-symphony-st-3.jpg" title="SYM Symphony ST 200i">
 			<img src="resources/images/symphony-st/sym-symphony-st-3.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image3" style="width: 140px; height: 100px;">
@@ -52,7 +52,7 @@
 			<img src="resources/images/symphony-st/sym-symphony-st-6.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image6" style="width: 100px; height: 140px;">
 			</a>
 			<a href="resources/images/symphony-st/sym-symphony-st-7.jpg" title="SYM Symphony ST 200i">
-			<img src="resources/images/symphony-st/sym-symphony-st-7.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image7" style="width: 100px; height: 140px;">
+			<img src="resources/images/symphony-st/sym-symphony-st-7.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image7" style="width: 140px; height: 100px;">
 			</a>
 			<a href="resources/images/symphony-st/sym-symphony-st-8.jpg" title="SYM Symphony ST 200i">
 			<img src="resources/images/symphony-st/sym-symphony-st-8.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image8" style="width: 140px; height: 100px;">
@@ -61,7 +61,7 @@
 			<img src="resources/images/symphony-st/sym-symphony-st-9.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image9" style="width: 140px; height: 100px;">
 			</a>
 			<a href="resources/images/symphony-st/sym-symphony-st-10.jpg" title="SYM Symphony ST 200i">
-			<img src="resources/images/symphony-st/sym-symphony-st-10.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image10" style="width: 100px; height: 120px;">
+			<img src="resources/images/symphony-st/sym-symphony-st-10.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image10" style="width: 120px; height: 100px;">
 			</a>
 			<a href="resources/images/symphony-st/sym-symphony-st-11.jpg" title="SYM Symphony ST 200i">
 			<img src="resources/images/symphony-st/sym-symphony-st-11.jpg" class="img-polaroid" alt="SYM Symphony ST 200i image11" style="width: 140px; height: 100px;">

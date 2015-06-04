@@ -3,7 +3,7 @@
 <div class="container">
 <div class="row-fluid">
 	<div class="span5 pagination-centered">
-	<img class="img-polaroid" src="resources/images/fiddle3/sym-fiddle-iii-200i-cover.jpg" alt="скутер SYM Fiddle III 200i CBS"/>
+	<img class="img-polaroid" src="resources/images/fiddle3/sym-fiddle-3-200i-cover.jpg" alt="скутер SYM Fiddle III 200i CBS"/>
 	</div>
 	<div class="span7">
 		<h4 class="text-blue">Едно незабравимо усещане за динамика, в класически вид</h4>
@@ -30,26 +30,41 @@
 	<h4 align="center">Галерия</h4>
 		<div id="links">
 		<ul class="thumbnails pagination-centered">
-			<a href="resources/images/fiddle3/sym-fiddle2-1.jpg" title="SYM Fiddle III">
-			<img src="resources/images/fiddle3/sym-fiddle2-1.jpg" class="img-polaroid" alt="SYM Fiddle III image1" style="width: 100px; height: 140px;">
+<a href="resources/images/fiddle3/sym-fiddle3-1.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-1.jpg" class="img-polaroid" alt="SYM Fiddle III image1" style="width: 120px; height: 120px;">
 			</a>
-			<a href="resources/images/fiddle3/sym-fiddle2-2.jpg" title="SYM Fiddle III">
-			<img src="resources/images/fiddle3/sym-fiddle2-2.jpg" class="img-polaroid" alt="SYM Fiddle III image2" style="width: 100px; height: 100px;">
+			<a href="resources/images/fiddle3/sym-fiddle3-2.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-2.jpg" class="img-polaroid" alt="SYM Fiddle III image2" style="width: 120px; height: 120px;">
 			</a>
-			<a href="resources/images/fiddle3/sym-fiddle2-3.jpg" title="SYM Fiddle III">
-			<img src="resources/images/fiddle3/sym-fiddle2-3.jpg" class="img-polaroid" alt="SYM Fiddle III image3" style="width: 100px; height: 120px;">
+			<a href="resources/images/fiddle3/sym-fiddle3-3.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-3.jpg" class="img-polaroid" alt="SYM Fiddle III image3" style="width: 120px; height: 120px;">
 			</a>
-			<a href="resources/images/fiddle3/sym-fiddle2-4.jpg" title="SYM Fiddle III">
-			<img src="resources/images/fiddle3/sym-fiddle2-4.jpg" class="img-polaroid" alt="SYM Fiddle III image4" style="width: 140px; height: 100px;">
+			<a href="resources/images/fiddle3/sym-fiddle3-4.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-4.jpg" class="img-polaroid" alt="SYM Fiddle III image4" style="width: 120px; height: 120px;">
 			</a>
-			<a href="resources/images/fiddle3/sym-fiddle2-5.jpg" title="SYM Fiddle III">
-			<img src="resources/images/fiddle3/sym-fiddle2-5.jpg" class="img-polaroid" alt="SYM Fiddle III image5" style="width: 100px; height: 100px;">
+			<a href="resources/images/fiddle3/sym-fiddle3-5.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-5.jpg" class="img-polaroid" alt="SYM Fiddle III image5" style="width: 120px; height: 120px;">
 			</a>
-			<a href="resources/images/fiddle3/sym-fiddle2-6.jpg" title="SYM Fiddle III">
-			<img src="resources/images/fiddle3/sym-fiddle2-6.jpg" class="img-polaroid" alt="SYM Fiddle III image6" style="width: 140px; height: 140px;">
+			<a href="resources/images/fiddle3/sym-fiddle3-6.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-6.jpg" class="img-polaroid" alt="SYM Fiddle III image6" style="width: 140px; height: 100px;">
 			</a>
-			<a href="resources/images/fiddle3/sym-fiddle2-7.jpg" title="SYM Fiddle III">
-			<img src="resources/images/fiddle3/sym-fiddle2-7.jpg" class="img-polaroid" alt="SYM Fiddle III image7" style="width: 100px; height: 140px;">
+			<a href="resources/images/fiddle3/sym-fiddle3-7.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-7.jpg" class="img-polaroid" alt="SYM Fiddle III image7" style="width: 140px; height: 100px;">
+			</a>
+			<a href="resources/images/fiddle3/sym-fiddle3-8.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-8.jpg" class="img-polaroid" alt="SYM Fiddle III image8" style="width: 140px; height: 100px;">
+			</a>
+			<a href="resources/images/fiddle3/sym-fiddle3-9.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-9.jpg" class="img-polaroid" alt="SYM Fiddle III image9" style="width: 140px; height: 100px;">
+			</a>
+			<a href="resources/images/fiddle3/sym-fiddle3-10.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-10.jpg" class="img-polaroid" alt="SYM Fiddle III image10" style="width: 140px; height: 100px;">
+			</a>
+			<a href="resources/images/fiddle3/sym-fiddle3-11.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-11.jpg" class="img-polaroid" alt="SYM Fiddle III image11" style="width: 100px; height: 120px;">
+			</a>
+			<a href="resources/images/fiddle3/sym-fiddle3-12.jpg" title="SYM Fiddle III">
+			<img src="resources/images/fiddle3/sym-fiddle3-12.jpg" class="img-polaroid" alt="SYM Fiddle III image12" style="width: 140px; height: 100px;">
 			</a>
 		</ul>
 		</div>

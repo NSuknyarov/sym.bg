@@ -1,5 +1,5 @@
 <?php include 'templates/header.php'; ?>
-<h2>XPRO  50/125</h2>
+<h2>XPRO  50</h2>
 <div class="container">
 <div class="row-fluid">
 	<div class="span6 pagination-centered">
@@ -9,10 +9,10 @@
 		<h4 class="text-blue">Скутер за вашият бизнес</h4>
 			<p>
 				Нов избор при мултифункционалните модели, товарещи повече товар и идеални за бизнеса. Моделът е модификация на дизайна на Orbit II, с различна седалка и
-				огромен резервоар, побиращ 8.5л гориво. В допълнение са добавени и два оякчени задни амортисьора, които да поддържат стабилно товара (с лимит на 
+				огромен резервоар, побиращ 8.5л гориво. В допълнение са добавени и два оякчени задни амортисьора, които да поддържат стабилно товара (с лимит на
 				натовареност 40кг) и голям заден багажник. XPRO води до печеливш и професионален бизнес живот.
 			</p>
-			<p class="text-blue" style="font-size:x-large;"> Цена: 2840лв. (50) / 3320лв. (125)</p>
+			<p class="text-blue" style="font-size:x-large;"> Цена: 2990лв.</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-xpro.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-xpro.php"></div>
 		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>
@@ -49,83 +49,67 @@
 					<tr>
 					<th>Модел</th>
 					<th>X-Pro 50</th>
-					<th>X-Pro 125</th>
 					</tr>
 				</thead>
 				<tbody>
 					<tr>
 						<td width="30%" valign="top" height="18" class="text_bold">ТИП ДВИГАТЕЛ</td>
 						<td width="23%" valign="top" class="text">Едноцилиндров, 4-тактов</td>
-						<td width="23%" valign="top" class="text">Едноцилиндров, 4-тактов</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">РАБОТЕН ОБЕМ</td>
 						<td width="23%" valign="top" class="text">49.5 cm&sup3;</td>
-						<td width="23%" valign="top" class="text">124.6 cm&sup3;</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ОХЛАЖДАНЕ</td>
-						<td width="23%" valign="top" class="text">Въздушно</td>
 						<td width="23%" valign="top" class="text">Въздушно</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td valign="top" height="18" class="text_bold">ГОРИВНА СИСТЕМА</td>
 						<td valign="top" class="text">Карбуратор</td>
-						<td valign="top" class="text">Карбуратор</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td valign="top" height="18" class="text_bold">ТРАНСМИСИЯ</td>
-						<td valign="top" class="text">Вариатор</td>
 						<td valign="top" class="text">Вариатор</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ПРЕДНО ОКАЧВАНЕ</td>
 						<td width="23%" valign="top" class="text">Телескопична вилка</td>
-						<td width="23%" valign="top" class="text">Телескопична вилка</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ЗАДНО ОКАЧВАНЕ</td>
-						<td width="23%" valign="top" class="text">Люлеещо се рамо</td>
 						<td width="23%" valign="top" class="text">Люлеещо се рамо</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ПРЕДНА СПИРАЧКА</td>
 						<td width="23%" valign="top" class="text">Дискова &oslash;190 mm</td>
-						<td width="23%" valign="top" class="text">Дискова &oslash;190 mm</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ЗАДНА СПИРАЧКА</td>
-						<td width="23%" valign="top" class="text">Барабанна &oslash;110 mm</td>
 						<td width="23%" valign="top" class="text">Барабанна &oslash;110 mm</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ПРЕДНА ГУМА</td>
 						<td width="23%" valign="top" class="text">120 / 70 - 12</td>
-						<td width="23%" valign="top" class="text">120 / 70 - 12</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">ЗАДНА ГУМА</td>
-						<td width="23%" valign="top" class="text">130 / 70 - 12</td>
 						<td width="23%" valign="top" class="text">130 / 70 - 12</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td width="30%" valign="top" height="18" class="text_bold">РАЗМЕРИ ДхШхВ(mm)</td>
 						<td width="23%" valign="top" class="text">1905х690х1125</td>
-						<td width="23%" valign="top" class="text">1905х690х1125</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td valign="top" height="18" class="text_bold">МЕЖДУОСИЕ</td>
-						<td valign="top" class="text">1310 mm</td>
 						<td valign="top" class="text">1310 mm</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td valign="top" height="18" class="text_bold">НЕТО ТЕГЛО</td>
 						<td valign="top" class="text">100 kg</td>
-						<td valign="top" class="text">100 kg</td>
 					</tr>
 					<tr class="scheda_tnt">
 						<td valign="top" height="18" class="text_bold">РЕЗЕРВОАР ЗА ГОРИВО</td>
-						<td valign="top" class="text">8.5 l</td>
 						<td valign="top" class="text">8.5 l</td>
 					</tr>
 				</tbody>

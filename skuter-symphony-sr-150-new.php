@@ -31,16 +31,16 @@
 		<div id="links">
 		<ul class="thumbnails pagination-centered">
 			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-1.jpg" title="SYM Symphony SR New">
-			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-1.jpg" class="img-polaroid" alt="SYM Symphony SR New image1" style="width: 100px; height: 100px;">
+			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-1.jpg" class="img-polaroid" alt="SYM Symphony SR New image1" style="width: 140px; height: 100px;">
 			</a>
 			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-2.jpg" title="SYM Symphony SR New">
-			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-2.jpg" class="img-polaroid" alt="SYM Symphony SR New image2" style="width: 100px; height: 100px;">
+			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-2.jpg" class="img-polaroid" alt="SYM Symphony SR New image2" style="width: 140px; height: 100px;">
 			</a>
 			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-3.jpg" title="SYM Symphony SR New">
-			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-3.jpg" class="img-polaroid" alt="SYM Symphony SR New image3" style="width: 100px; height: 100px;">
+			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-3.jpg" class="img-polaroid" alt="SYM Symphony SR New image3" style="width: 140px; height: 100px;">
 			</a>
 			<a href="resources/images/symphony-sr-new/sym-symphony-sr-new-4.jpg" title="SYM Symphony SR New">
-			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-4.jpg" class="img-polaroid" alt="SYM Symphony SR New image4" style="width: 120px; height: 100px;">
+			<img src="resources/images/symphony-sr-new/sym-symphony-sr-new-4.jpg" class="img-polaroid" alt="SYM Symphony SR New image4" style="width: 140px; height: 100px;">
 			</a>
 		</ul>
 		</div>

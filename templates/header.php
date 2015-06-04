@@ -52,8 +52,8 @@
               <ul class="dropdown-column unstyled span4">
                 <!--new model--><li><a href="skuter-maxsym-600i.php">Maxsym 600i ABS</a></li>
                 <li><a href="skuter-maxsym-400i.php">Maxsym 400i ABS/CBS</a></li>
-                <li><a href="skuter-gts-300i.php">GTS 300i F4 ABS</a></li>
-                <li><a href="skuter-gts-250i.php">GTS 250i F4</a></li>
+                <li><a href="skuter-gts-300i.php">GTS 300i F4 ABS/CBS</a></li>
+                <li><a href="skuter-gts-250i.php">GTS 250i</a></li>
                 <!--new model--><li><a href="skuter-citycom-s-300i.php">Citycom S 300i CBS</a></li>
     						<li><a href="skuter-citycom-300i.php">Citycom 300i CBC</a></li>
     						<li><a href="skuter-gts-250i-evo.php">GTS 250i EVO</a></li>
@@ -62,8 +62,8 @@
     						<li><a href="skuter-joyride-125.php">Joyride 125 EVO</a></li>
               </ul>
               <ul class="dropdown-column unstyled span4">
-                <li><a href="skuter-hd2-200i.php">HD2 200i</a></li>
-                <li><a href="skuter-hd2-125.php">HD2 125</a></li>
+                <li><a href="skuter-hd2-200i.php">HD2 200i CBS</a></li>
+                <li><a href="skuter-hd-125.php">HD 125 EVO</a></li>
                 <!--new model--><li><a href="skuter-symphony-st-200i.php">Symphony ST 200i CBS</a></li>
                 <!--new model--><li><a href="skuter-symphony-sr-150-new.php">Symphony SR 150 new</a></li>
     						<li><a href="skuter-symphony-sr.php">Symphony SR 50/125/150</a></li>
@@ -75,7 +75,7 @@
               </ul>
               <ul class="dropdown-column unstyled span4">
                 <!--new model--><li><a href="skuter-crox-50-125.php">Crox 50/125</a></li>
-    						<li><a href="skuter-xpro.php">X-pro 50/125</a></li>
+    						<li><a href="skuter-xpro.php">X-pro 50</a></li>
     						<li><a href="skuter-mio.php">Mio 50/100</a></li>
     						<li><a href="skuter-jet4.php">Jet 4 50/125</a></li>
     						<li><a href="skuter-orbit-2.php">Orbit II 50</a></li>

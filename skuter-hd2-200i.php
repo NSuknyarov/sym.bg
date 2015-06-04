@@ -1,5 +1,5 @@
 <?php include 'templates/header.php'; ?>
-<h2>HD2 200i</h2>
+<h2>HD2 200i CBS</h2>
 <div class="container">
 <div class="row-fluid">
 	<div class="span3 pagination-centered">
@@ -14,10 +14,6 @@
 				за изключване на двигателя. С други думи, тази еволюция Ви дава повече удобство и комфорт, мощност и производителност.
 			</p>
 			<p class="text-blue" style="font-size:x-large;"> Цена: 6190лв.(CBS) / 5990лв.</p>
-			<div class="fb-like" data-href="http://www.sym.bg/skuter-hd2-200i.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
-			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-hd2-200i.php"></div>
-		<!--	<a class="btn btn-large btn-primary btn-custom" href="http://www.velona-bg.com/catalog/product_info.php?currency=BG&manufacturers_id=66&products_id=505&language=BG" target="_blank">Цена</a>
-		-->
 		</div>
 	</div>
 	<div class="row-fluid">

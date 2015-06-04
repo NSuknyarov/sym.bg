@@ -67,10 +67,10 @@
 			<img src="resources/images/maxsym-600i/sym-maxsym-600i-10.jpg" class="img-polaroid" alt="SYM Maxsym 600i ABS image10" style="width: 110px; height: 100px;">
 			</a>
 			<a href="resources/images/maxsym-600i/sym-maxsym-600i-11.jpg" title="SYM Maxsym 600i ABS">
-			<img src="resources/images/maxsym-600i/sym-maxsym-600i-11.jpg" class="img-polaroid" alt="SYM Maxsym 600i ABS image11" style="width: 110px; height: 100px;">
+			<img src="resources/images/maxsym-600i/sym-maxsym-600i-11.jpg" class="img-polaroid" alt="SYM Maxsym 600i ABS image11" style="width: 80px; height: 140px;">
 			</a>
 			<a href="resources/images/maxsym-600i/sym-maxsym-600i-12.jpg" title="SYM Maxsym 600i ABS">
-			<img src="resources/images/maxsym-600i/sym-maxsym-600i-12.jpg" class="img-polaroid" alt="SYM Maxsym 600i ABS image12" style="width: 110px; height: 100px;">
+			<img src="resources/images/maxsym-600i/sym-maxsym-600i-12.jpg" class="img-polaroid" alt="SYM Maxsym 600i ABS image12" style="width: 80px; height: 140px;">
 			</a>
 		</ul>
 		</div>
