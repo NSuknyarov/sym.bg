@@ -18,15 +18,6 @@
 </footer>
 </div>
 	<!-- GOOGLE PLUS BUTTON -->
-	<script type="text/javascript">
-	  window.___gcfg = {lang: 'bg'};
-
-	  (function() {
-		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		po.src = 'https://apis.google.com/js/plusone.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	  })();
-	</script>
 	<script src="http://code.jquery.com/jquery.js"></script>
     <script src="resources/js/bootstrap.min.js"></script>
 	<script src="resources/js/blueimp-gallery.min.js"></script>
