@@ -55,7 +55,7 @@
                 <li><a href="skuter-gts-300i.php">GTS 300i F4 ABS/CBS</a></li>
                 <li><a href="skuter-gts-250i.php">GTS 250i</a></li>
                 <!--new model--><li><a href="skuter-citycom-s-300i.php">Citycom S 300i CBS</a></li>
-    						<li><a href="skuter-citycom-300i.php">Citycom 300i CBC</a></li>
+    						<li><a href="skuter-citycom-300i.php">Citycom 300i CBS</a></li>
     						<li><a href="skuter-gts-250i-evo.php">GTS 250i EVO</a></li>
     						<!--new model--><li><a href="skuter-bellavita-300i.php">Bellavita 300i CBS</a></li>
     						<li><a href="skuter-joyride-200i.php">Joyride 200i EVO</a></li>

@@ -6,7 +6,7 @@
 </span>
 <br></br>
 <div class="pagination-centered">
-	<a href="scooters.php"><img class="img-polaroid" src="resources/images/scooters.jpg" alt="скутери"/></a>
+	<a href="scooters-catalog.php"><img class="img-polaroid" src="resources/images/scooters.jpg" alt="скутери"/></a>
 	<hr class="fancy-line hidden-desktop"></hr>
 	<a href="atv.php"><img class="img-polaroid" src="resources/images/atv.jpg" alt="atv"/></a>
 	<hr class="fancy-line hidden-desktop"></hr>
