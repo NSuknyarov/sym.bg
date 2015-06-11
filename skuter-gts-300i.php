@@ -16,7 +16,6 @@
 			<p class="text-blue" style="font-size:x-large;"> Цена: 9190лв. (ABS) / 8790лв. (CBS)</p>
 			<div class="fb-like" data-href="http://www.sym.bg/skuter-gts-300i.php" data-width="450" data-layout="button_count" data-show-faces="false" data-send="true"></div>
 			<div class="g-plusone" data-size="medium" data-href="http://www.sym.bg/skuter-gts-300i.php"></div>
-		-->
 		</div>
 	</div>
 	<div class="row-fluid">
